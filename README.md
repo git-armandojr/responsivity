@@ -1,4 +1,4 @@
-# responsivity
+# Responsivity
 A simple study of responsive web application
 
 # Demo
